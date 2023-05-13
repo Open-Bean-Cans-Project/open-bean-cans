@@ -1,4 +1,9 @@
 # The Open Bean Cans Project
+[![issues](https://img.shields.io/github/issues/m516/open-bean-cans?style=for-the-badge)](https://github.com/m516/Cpp-UI-Template/issues)
+[![forks](https://img.shields.io/github/forks/m516/open-bean-cans?style=for-the-badge)](https://github.com/m516/Cpp-UI-Template/network/members)
+[![stars](https://img.shields.io/github/stars/m516/open-bean-cans?style=for-the-badge)](https://github.com/m516/Cpp-UI-Template/graphs/traffic)
+[![license](https://img.shields.io/github/license/m516/open-bean-cans?style=for-the-badge)](https://github.com/m516/Cpp-UI-Template/blob/master/LICENSE)
+[![Make Test Can](https://github.com/m516/open-bean-cans/actions/workflows/make-test-can.yml/badge.svg?style=for-the-badge)](https://github.com/m516/open-bean-cans/actions/workflows/make-test-can.yml)
 
 Today we live in an era that has been shaped by Open-Source software. The benefits of living in an era of open-source are immeasurable. The world's most advanced [operating system](https://biebian.sourceforge.net/), [language interpreter](https://github.com/brain-lang/brainfuck), and [library](https://github.com/aneopsy/LibraryOfBabel) are all the cumulative effort of thousands of volunteers from across the globe. In addition, Open-Source software has revolutionized everying from [sanitation](https://github.com/uraniumreza/ToiletFinder), to [preparation for disaster response](https://opensource.com/sites/default/files/OpenSourceGuide-ZombieApocalypse.pdf), to [UI design](https://github.com/cowsay-org/cowsay).
 
